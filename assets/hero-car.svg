@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" fill="none" role="img" aria-label="Premium car silhouette">
+  <defs>
+    <linearGradient id="g" x1="155" y1="160" x2="1025" y2="580" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#590425" stop-opacity="0.14" />
+      <stop offset="0.55" stop-color="#0F172A" stop-opacity="0.05" />
+      <stop offset="1" stop-color="#590425" stop-opacity="0.10" />
+    </linearGradient>
+    <linearGradient id="shine" x1="260" y1="270" x2="940" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.9" />
+      <stop offset="0.35" stop-color="#FFFFFF" stop-opacity="0.25" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1200" height="750" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="26" stdDeviation="24" flood-color="#0F172A" flood-opacity="0.12" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="750" fill="#FFFFFF" />
+  <path
+    d="M192 502c76-74 164-122 268-142 70-13 148-12 234 3 92 16 172 49 241 101 22 17 39 34 52 52H192c-11 0-18-6-20-18-2-14 4-28 20-44Z"
+    fill="url(#g)"
+    filter="url(#shadow)"
+  />
+
+  <!-- body line -->
+  <path
+    d="M264 476c67-62 145-100 236-115 64-11 135-10 214 2 84 13 158 42 222 89 16 12 30 25 41 39"
+    stroke="#590425"
+    stroke-opacity="0.55"
+    stroke-width="6"
+    stroke-linecap="round"
+  />
+
+  <!-- glass -->
+  <path
+    d="M430 457c34-47 78-78 134-91 69-17 143-16 221 2 22 5 41 13 56 25 12 9 19 20 21 34l-432 30Z"
+    fill="#0F172A"
+    fill-opacity="0.06"
+    stroke="#0F172A"
+    stroke-opacity="0.08"
+  />
+  <path d="M420 458 875 427" stroke="#FFFFFF" stroke-opacity="0.5" stroke-width="3" stroke-linecap="round" />
+
+  <!-- shine -->
+  <path
+    d="M366 471c58-62 126-101 206-117 58-12 122-12 193 0 60 10 115 30 165 61 10 6 18 12 25 19-185 36-399 52-589 37Z"
+    fill="url(#shine)"
+    opacity="0.55"
+  />
+
+  <!-- wheels -->
+  <g opacity="0.95">
+    <circle cx="392" cy="520" r="58" fill="#0F172A" fill-opacity="0.08" />
+    <circle cx="392" cy="520" r="40" fill="#FFFFFF" />
+    <circle cx="392" cy="520" r="38" stroke="#590425" stroke-opacity="0.35" stroke-width="3" />
+    <circle cx="392" cy="520" r="10" fill="#590425" fill-opacity="0.20" />
+
+    <circle cx="826" cy="520" r="58" fill="#0F172A" fill-opacity="0.08" />
+    <circle cx="826" cy="520" r="40" fill="#FFFFFF" />
+    <circle cx="826" cy="520" r="38" stroke="#590425" stroke-opacity="0.35" stroke-width="3" />
+    <circle cx="826" cy="520" r="10" fill="#590425" fill-opacity="0.20" />
+  </g>
+
+  <!-- ground -->
+  <path d="M140 580h920" stroke="#0F172A" stroke-opacity="0.06" stroke-width="6" stroke-linecap="round" />
+</svg>
