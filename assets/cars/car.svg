@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" fill="none" role="img" aria-label="Car silhouette">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="160" x2="780" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#590425" stop-opacity="0.12" />
+      <stop offset="0.55" stop-color="#0F172A" stop-opacity="0.05" />
+      <stop offset="1" stop-color="#590425" stop-opacity="0.10" />
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="560" rx="0" fill="#FFFFFF" />
+  <path
+    d="M118 390c55-52 118-85 193-99 49-10 105-9 166 2 66 12 125 35 175 73 18 14 32 28 43 42H118c-9 0-14-5-16-15-2-10 3-21 16-33Z"
+    fill="url(#bg)"
+  />
+
+  <path
+    d="M172 372c48-43 103-70 168-81 46-8 97-8 152 1 58 10 108 30 151 63 12 9 22 18 30 28"
+    stroke="#590425"
+    stroke-opacity="0.55"
+    stroke-width="5"
+    stroke-linecap="round"
+  />
+
+  <g opacity="0.95">
+    <circle cx="290" cy="414" r="42" fill="#0F172A" fill-opacity="0.08" />
+    <circle cx="290" cy="414" r="29" fill="#FFFFFF" />
+    <circle cx="290" cy="414" r="27" stroke="#590425" stroke-opacity="0.35" stroke-width="3" />
+    <circle cx="290" cy="414" r="7" fill="#590425" fill-opacity="0.20" />
+
+    <circle cx="618" cy="414" r="42" fill="#0F172A" fill-opacity="0.08" />
+    <circle cx="618" cy="414" r="29" fill="#FFFFFF" />
+    <circle cx="618" cy="414" r="27" stroke="#590425" stroke-opacity="0.35" stroke-width="3" />
+    <circle cx="618" cy="414" r="7" fill="#590425" fill-opacity="0.20" />
+  </g>
+
+  <path d="M120 470h660" stroke="#0F172A" stroke-opacity="0.06" stroke-width="6" stroke-linecap="round" />
+</svg>
