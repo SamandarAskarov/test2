@@ -1,0 +1,87 @@
+{
+  "seo": {
+    "title": "Rentcarhouse — Premium Car Rental in Tashkent | 24/7",
+    "description": "Premium car rental service in Tashkent. Rent Nexia, Malibu, BMW, Zeekr and other cars 24/7. Fast booking via phone or Telegram."
+  },
+  "a11y": {
+    "skipToContent": "Skip to content"
+  },
+  "lang": {
+    "uz": "O‘zbek",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "cars": "Cars",
+    "about": "About",
+    "how": "How to Rent",
+    "contact": "Contact"
+  },
+  "cta": {
+    "call": "Call",
+    "callNow": "Call Now",
+    "telegram": "Telegram"
+  },
+  "hero": {
+    "badge": "Tashkent • 24/7",
+    "title": "Premium Car Rental in Tashkent",
+    "subtitle": "Comfortable cars available 24/7 for rent in Tashkent.",
+    "stat1Label": "Service",
+    "stat1Value": "24/7",
+    "stat2Label": "Cars",
+    "stat2Value": "Premium",
+    "stat3Label": "Booking",
+    "stat3Value": "Fast",
+    "imageTitle": "Luxury fleet",
+    "imageTag": "Minimal • Premium"
+  },
+  "about": {
+    "title": "About Rentcarhouse",
+    "text": "Rentcarhouse is a premium car rental service in Tashkent. We focus on comfort, clean vehicles, and a smooth booking experience.",
+    "f1": "24/7 service",
+    "f1d": "Call anytime — we respond fast.",
+    "f2": "Premium cars",
+    "f2d": "Modern models for city and travel.",
+    "f3": "Easy booking",
+    "f3d": "Phone or Telegram in minutes.",
+    "f4": "Reliable service",
+    "f4d": "Transparent pricing, trusted support."
+  },
+  "cars": {
+    "title": "Cars & Prices",
+    "subtitle": "Minimal pricing. Premium experience.",
+    "quickCall": "Quick Call",
+    "priceLabel": "Daily price",
+    "perDay": "so'm / day",
+    "call": "Call"
+  },
+  "how": {
+    "title": "How To Rent",
+    "subtitle": "Three simple steps.",
+    "step1Title": "Choose a car",
+    "step1Text": "Pick from our premium fleet and pricing.",
+    "step2Title": "Call or Telegram",
+    "step2Text": "Confirm availability and details in minutes.",
+    "step3Title": "Pick up the car",
+    "step3Text": "Enjoy a clean, comfortable ride in Tashkent."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Fast booking by phone or Telegram.",
+    "phoneLabel": "Phone",
+    "locationLabel": "Location",
+    "locationValue": "Tashkent, Yashnabad District, Mahtumquli Street 119",
+    "hoursLabel": "Working hours",
+    "hoursValue": "Open 24/7"
+  },
+  "map": {
+    "title": "Map",
+    "subtitle": "Find us in Tashkent."
+  },
+  "footer": {
+    "tagline": "Premium car rental in Tashkent",
+    "hours": "Open 24 hours",
+    "seoLine": "Keywords: rent car tashkent, car rental tashkent, прокат авто ташкент, аренда авто ташкент, mashina ijarasi tashkent"
+  }
+}

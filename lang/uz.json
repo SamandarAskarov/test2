@@ -1,0 +1,87 @@
+{
+  "seo": {
+    "title": "Rentcarhouse — Toshkentda Premium Avto Ijarasi | 24/7",
+    "description": "Toshkentda premium avtomobil ijarasi. Nexia, Malibu, BMW, Zeekr va boshqa mashinalar 24/7. Tez bron: telefon yoki Telegram."
+  },
+  "a11y": {
+    "skipToContent": "Kontentga o'tish"
+  },
+  "lang": {
+    "uz": "O‘zbek",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "cars": "Avtomobillar",
+    "about": "Biz haqimizda",
+    "how": "Qanday ijaraga olish",
+    "contact": "Aloqa"
+  },
+  "cta": {
+    "call": "Qo‘ng‘iroq",
+    "callNow": "Hoziroq qo‘ng‘iroq",
+    "telegram": "Telegram"
+  },
+  "hero": {
+    "badge": "Toshkent • 24/7",
+    "title": "Toshkentda Premium Avto Ijarasi",
+    "subtitle": "Toshkentda 24/7 qulay va toza avtomobillar ijarasi.",
+    "stat1Label": "Xizmat",
+    "stat1Value": "24/7",
+    "stat2Label": "Avto",
+    "stat2Value": "Premium",
+    "stat3Label": "Bron",
+    "stat3Value": "Tez",
+    "imageTitle": "Luxury park",
+    "imageTag": "Minimal • Premium"
+  },
+  "about": {
+    "title": "Rentcarhouse haqida",
+    "text": "Rentcarhouse — Toshkentdagi premium avtomobil ijarasi. Biz qulaylik, tozalik va tez bron tajribasiga e’tibor beramiz.",
+    "f1": "24/7 xizmat",
+    "f1d": "Istalgan payt qo‘ng‘iroq qiling — tez javob beramiz.",
+    "f2": "Premium avtomobillar",
+    "f2d": "Shahar va safar uchun zamonaviy modelllar.",
+    "f3": "Oson bron",
+    "f3d": "Telefon yoki Telegram orqali bir necha daqiqada.",
+    "f4": "Ishonchli xizmat",
+    "f4d": "Shaffof narxlar, doimiy qo‘llab-quvvatlash."
+  },
+  "cars": {
+    "title": "Avtomobillar va narxlar",
+    "subtitle": "Minimal narx. Premium tajriba.",
+    "quickCall": "Tez qo‘ng‘iroq",
+    "priceLabel": "Kunlik narx",
+    "perDay": "so‘m / kun",
+    "call": "Qo‘ng‘iroq"
+  },
+  "how": {
+    "title": "Qanday ijaraga olish",
+    "subtitle": "Uchta oddiy qadam.",
+    "step1Title": "Avtomobil tanlang",
+    "step1Text": "Premium parkimizdan mos mashinani tanlang.",
+    "step2Title": "Qo‘ng‘iroq qiling yoki Telegram",
+    "step2Text": "Mavjudligini va shartlarni tez tasdiqlang.",
+    "step3Title": "Avtomobilni oling",
+    "step3Text": "Toshkentda qulay va toza haydashdan zavqlaning."
+  },
+  "contact": {
+    "title": "Aloqa",
+    "subtitle": "Telefon yoki Telegram orqali tez bron qiling.",
+    "phoneLabel": "Telefon",
+    "locationLabel": "Manzil",
+    "locationValue": "Toshkent, Yashnobod tumani, Mahtumquli ko‘chasi 119",
+    "hoursLabel": "Ish vaqti",
+    "hoursValue": "24/7 ochiq"
+  },
+  "map": {
+    "title": "Xarita",
+    "subtitle": "Toshkentda bizni toping."
+  },
+  "footer": {
+    "tagline": "Toshkentda premium avto ijarasi",
+    "hours": "24 soat ochiq",
+    "seoLine": "Kalit so‘zlar: rent car tashkent, car rental tashkent, прокат авто ташкент, аренда авто ташкент, mashina ijarasi tashkent"
+  }
+}
